@@ -1,4 +1,7 @@
 {
+    "ace": {
+        "@tabSize": 2
+    },
     "build": {
         "@saveall": true
     },
@@ -7,6 +10,9 @@
         "@editor.snippetSuggestions": "top",
         "@editor.suggest.preview": true,
         "@editor.suggest.showMethods": true
+    },
+    "instance": {
+        "@automaticShutdown": "30"
     },
     "language": {
         "tern_defs": {
